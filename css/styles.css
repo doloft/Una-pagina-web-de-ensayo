@@ -1,18 +1,22 @@
 body{
- color:burlywood;
- text-align: center;
+ color:rgb(117, 73, 15);
+ text-align: left;
  font-family: "arial";
- font-size: 30px;
+ font-size: 37px;
  margin: 0;
  padding: 0
 }
+
 h1 {
  width: 70%;
  padding: 1cm;
  text-align: left;
- border: 1px solid #ddd;
+ border: 3px solid #ddd;
  margin: 0 auto;
 }
+
 p {
- font-size: 20px;
+ border: 10px solid #ddd;
+ padding: 1cm;
+ font-size: 50px;
 }
